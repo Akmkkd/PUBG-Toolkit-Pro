@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PUBG Toolkit Pro</string>
+    <string name="clean_title">Full Clean Script</string>
+    <string name="clean_desc">Clear all PUBG variants cache, logs, databases &amp; temp files with root</string>
+    <string name="guest_title">Reset Guest Account</string>
+    <string name="guest_desc">Reset device ID &amp; guest login for com.tencent.ig</string>
+    <string name="run_selected">▶ RUN SELECTED</string>
+    <string name="run_all">▶ RUN ALL SCRIPTS</string>
+    <string name="check_root">Checking root access...</string>
+    <string name="grant_root">Granted ✓</string>
+    <string name="denied_root">Denied ✗</string>
+    <string name="request_root">ROOT REQUIRED</string>
+    <string name="executing">Executing...</string>
+    <string name="completed">Completed ✓</string>
+    <string name="error_occurred">Error occurred</string>
+    <string name="status_ready">READY</string>
+    <string name="status_waiting">WAITING</string>
+    <string name="log_header">=== Execution Log ===</string>
+</resources>
